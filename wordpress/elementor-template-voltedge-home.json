@@ -1,0 +1,1619 @@
+{
+  "version": "0.4",
+  "title": "VoltEdge Home",
+  "type": "page",
+  "page_settings": {
+    "template": "elementor_header_footer"
+  },
+  "content": [
+    {
+      "id": "vehero01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "_element_id": "home",
+        "content_width": "full",
+        "gap": "extended",
+        "height": "min-height",
+        "custom_height": { "unit": "px", "size": 600, "sizes": [] },
+        "padding": { "unit": "px", "top": "140", "right": "20", "bottom": "140", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_image": { "url": "https://kamqb.github.io/teststrona/assets/img/hero.jpg", "id": "", "size": "" },
+        "background_size": "cover",
+        "background_position": "center center",
+        "background_repeat": "no-repeat",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "#171A45",
+        "background_overlay_opacity": { "unit": "px", "size": 0.82, "sizes": [] }
+      },
+      "elements": [
+        {
+          "id": "vehero1c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vehero1w1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p><span style='color:#FFB400;font-size:14px;font-weight:700;letter-spacing:3px;'>LICENSED &amp; INSURED ELECTRICAL CONTRACTOR</span></p>" },
+              "elements": []
+            },
+            {
+              "id": "vehero1w2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Raining Offers For Every Bright Home!",
+                "header_size": "h1",
+                "align": "left",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 56, "sizes": [] },
+                "typography_line_height": { "unit": "em", "size": 1.1, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "vehero1w3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "10% Off All First-Time Services",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#FFB400",
+                "typography_typography": "custom",
+                "typography_font_weight": "700",
+                "typography_font_size": { "unit": "px", "size": 26, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "vehero1w4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='color:#F1F5F9;font-size:18px;max-width:640px;'>From panel upgrades to EV chargers — VoltEdge powers homes and businesses safely, on time, and at a fair price. Emergency? We answer 24/7.</p>" },
+              "elements": []
+            },
+            {
+              "id": "vehero1w5",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "20", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "vehero1c5a",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 50, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veherobtn1",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "text": "Get a Free Quote",
+                        "link": { "url": "#contact", "is_external": "", "nofollow": "", "custom_attributes": "" },
+                        "align": "left",
+                        "size": "lg",
+                        "background_color": "#0084D6",
+                        "button_text_color": "#FFFFFF",
+                        "hover_color": "#FFFFFF",
+                        "hover_background_color": "#0075BE",
+                        "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                        "text_padding": { "unit": "px", "top": "14", "right": "28", "bottom": "14", "left": "28", "isLinked": false }
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vehero1c5b",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 50, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veherobtn2",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "text": "View Services",
+                        "link": { "url": "#services", "is_external": "", "nofollow": "", "custom_attributes": "" },
+                        "align": "left",
+                        "size": "lg",
+                        "button_text_color": "#FFFFFF",
+                        "background_color": "RGBA(255, 255, 255, 0)",
+                        "hover_color": "#FFFFFF",
+                        "hover_background_color": "RGBA(255, 255, 255, 0.12)",
+                        "border_border": "solid",
+                        "border_width": { "unit": "px", "top": "2", "right": "2", "bottom": "2", "left": "2", "isLinked": true },
+                        "border_color": "#FFFFFF",
+                        "hover_border_color": "#FFFFFF",
+                        "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                        "text_padding": { "unit": "px", "top": "12", "right": "26", "bottom": "12", "left": "26", "isLinked": false }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vehero1w6",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style='color:#F1F5F9;font-size:14px;font-weight:600;'><i class='fas fa-star' style='color:#FFB400'></i> 4.9/5 from 600+ reviews &nbsp;&nbsp;&nbsp; <i class='fas fa-clock' style='color:#FFB400'></i> 24/7 emergency response &nbsp;&nbsp;&nbsp; <i class='fas fa-check-circle' style='color:#FFB400'></i> 2-year workmanship warranty</p>",
+                "_margin": { "unit": "px", "top": "40", "right": "0", "bottom": "0", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vetrust1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "structure": "40",
+        "gap": "extended",
+        "padding": { "unit": "px", "top": "40", "right": "0", "bottom": "40", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "vetrus1c1",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vetrus1w1",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-shield-alt", "library": "fa-solid" },
+                "title_text": "Licensed &amp; Insured",
+                "description_text": "Lic. #EC-88412",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 32, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vetrus1c2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vetrus1w2",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-tools", "library": "fa-solid" },
+                "title_text": "Master Electricians",
+                "description_text": "Certified team",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 32, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vetrus1c3",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vetrus1w3",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-clock", "library": "fa-solid" },
+                "title_text": "10+ Years in Business",
+                "description_text": "Serving the tri-county area",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 32, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vetrus1c4",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vetrus1w4",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-star", "library": "fa-solid" },
+                "title_text": "4.9 Star Rating",
+                "description_text": "600+ verified reviews",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 32, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vecathead",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": { "unit": "px", "top": "20", "right": "0", "bottom": "10", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "vecatheadc",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecathw1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='text-align:center;color:#0084D6;font-size:14px;font-weight:700;letter-spacing:3px;'>WHAT WE DO</p>" },
+              "elements": []
+            },
+            {
+              "id": "vecathw2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Electrical Services For Every Need",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 36, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vecats01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "structure": "30",
+        "gap": "extended",
+        "padding": { "unit": "px", "top": "20", "right": "0", "bottom": "80", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "vecat1c1",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 33, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecat1w1",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://kamqb.github.io/teststrona/assets/img/residential.jpg", "id": "", "size": "" },
+                "image_size": "full",
+                "image_border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat1w2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Residential Services",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 24, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat1w3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='color:#64748B;font-size:15px;'>Panel upgrades, rewires, lighting and everything in between — done right the first time.</p>" },
+              "elements": []
+            },
+            {
+              "id": "vecat1w4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p><a href='#services' style='color:#0084D6;font-weight:700;font-size:15px;text-decoration:none;'>Book a Home Visit <i class='fas fa-arrow-right'></i></a></p>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vecat1c2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 33, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecat2w1",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://kamqb.github.io/teststrona/assets/img/commercial.jpg", "id": "", "size": "" },
+                "image_size": "full",
+                "image_border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat2w2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Commercial &amp; Industrial",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 24, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat2w3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='color:#64748B;font-size:15px;'>Design, installation and maintenance contracts for offices, retail and facilities.</p>" },
+              "elements": []
+            },
+            {
+              "id": "vecat2w4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p><a href='#services' style='color:#0084D6;font-weight:700;font-size:15px;text-decoration:none;'>Request a Site Walk <i class='fas fa-arrow-right'></i></a></p>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vecat1c3",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 33, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecat3w1",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://kamqb.github.io/teststrona/assets/img/ev-charger.jpg", "id": "", "size": "" },
+                "image_size": "full",
+                "image_border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat3w2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "EV Charger Installation",
+                "header_size": "h3",
+                "align": "left",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 24, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "vecat3w3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='color:#64748B;font-size:15px;'>Level 2 home and workplace charging stations, permitted and rebate-ready.</p>" },
+              "elements": []
+            },
+            {
+              "id": "vecat3w4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p><a href='#services' style='color:#0084D6;font-weight:700;font-size:15px;text-decoration:none;'>Charge Up Your Drive <i class='fas fa-arrow-right'></i></a></p>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veservhead",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "structure": "20",
+        "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "10", "left": "0", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F5F7F9"
+      },
+      "elements": [
+        {
+          "id": "veservheadc1",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 66, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veservhw1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='color:#0084D6;font-size:14px;font-weight:700;letter-spacing:3px;'>RATED &amp; READY</p>" },
+              "elements": []
+            },
+            {
+              "id": "veservhw2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Featured Services",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 36, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "veservheadc2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 33, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veservhw3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='text-align:right;margin-top:40px;'><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Can't find your job? Ask us →</a></p>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veservr01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "_element_id": "services",
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "10", "right": "20", "bottom": "20", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F5F7F9"
+      },
+      "elements": [
+        {
+          "id": "veservr0c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veservr01i",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "40", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "vesr1c1",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr1w0",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='background:#FFB400;color:#171A45;padding:2px 10px;border-radius:99px;font-size:11px;font-weight:800;letter-spacing:1px;'>POPULAR</span></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr1w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-bolt", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr1w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Panel Upgrades", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr1w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>100–400A service panels, upgrades and code corrections.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr1w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$899</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr1w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr1c2",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr2w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-network-wired", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr2w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Complete Rewiring", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr2w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Whole-home copper rewires for older and remodeled houses.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr2w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$2,400</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr2w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr1c3",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr3w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-lightbulb", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr3w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Lighting Installation", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr3w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Recessed, landscape, security and smart lighting design.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr3w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$149</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr3w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr1c4",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr4w0",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='background:#10B981;color:#FFFFFF;padding:2px 10px;border-radius:99px;font-size:11px;font-weight:800;letter-spacing:1px;'>NEW</span></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr4w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-charging-station", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr4w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "EV Charger Install", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr4w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Level 2 stations for homes and workplaces, rebate-ready.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr4w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$349</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr4w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veservr02",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "20", "right": "20", "bottom": "90", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F5F7F9"
+      },
+      "elements": [
+        {
+          "id": "veservr0c2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veservr02i",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "40", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "vesr5c1",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr5w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-fan", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr5w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Ceiling Fans &amp; Fixtures", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr5w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Fans, chandeliers and fixtures swapped safely and level.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr5w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$99</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr5w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr5c2",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr6w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-shield-alt", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr6w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Surge Protection", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr6w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Whole-house surge protectors that guard your electronics.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr6w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$199</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr6w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr5c3",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr7w0",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='background:#F43F5E;color:#FFFFFF;padding:2px 10px;border-radius:99px;font-size:11px;font-weight:800;letter-spacing:1px;'>-15%</span></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr7w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-plug", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr7w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Outlets &amp; Switches", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr7w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>GFCI, USB-C, dimmers and smart switches, installed to code.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr7w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$89</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr7w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vesr5c4",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 25, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vesr8w1",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": { "selected_icon": { "value": "fas fa-clipboard-check", "library": "fa-solid" }, "primary_color": "#0084D6", "size": { "unit": "px", "size": 28, "sizes": [] }, "align": "left" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr8w2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Safety Inspection", "header_size": "h4", "align": "left", "title_color": "#243673", "typography_typography": "custom", "typography_font_weight": "800", "typography_font_size": { "unit": "px", "size": 18, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr8w3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:14px;'>Full-home electrical audit with a written, plain-English report.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr8w4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#94A3B8;font-size:12px;font-weight:700;'>FROM</span> <b style='color:#333333;font-size:18px;'>$129</b></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vesr8w5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#contact' style='color:#0084D6;font-weight:700;font-size:14px;text-decoration:none;'>Book now <i class='fas fa-arrow-right'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veoffer01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "_element_id": "offer",
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "110", "right": "20", "bottom": "110", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_image": { "url": "https://kamqb.github.io/teststrona/assets/img/banner.jpg", "id": "", "size": "" },
+        "background_size": "cover",
+        "background_position": "center center",
+        "background_repeat": "no-repeat",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "#171A45",
+        "background_overlay_opacity": { "unit": "px", "size": 0.85, "sizes": [] }
+      },
+      "elements": [
+        {
+          "id": "veoffer1c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veoffer01i",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "20", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "veofferc1",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 66, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veoffw1",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><span style='color:#FFB400;font-size:14px;font-weight:700;letter-spacing:3px;'>LIMITED TIME OFFER</span></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "veoffw2",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "Home Safety Check Package",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_weight": "800",
+                        "typography_font_size": { "unit": "px", "size": 36, "sizes": [] }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "veoffw3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#F1F5F9;font-size:16px;'>A 40-point inspection of your panel, wiring, outlets and smoke detectors — with a written report and priority repair scheduling.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "veoffw4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#F1F5F9;font-size:15px;font-weight:600;margin-top:24px;'>Book your first service at 10% off, use code&nbsp; <span style='background:#FFB400;color:#171A45;padding:6px 14px;border-radius:6px;font-weight:800;font-size:16px;letter-spacing:1px;'>VOLT10</span></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "veofferc2",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 33, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veoffw5",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "text": "Claim Offer",
+                        "link": { "url": "#contact", "is_external": "", "nofollow": "", "custom_attributes": "" },
+                        "align": "right",
+                        "size": "lg",
+                        "background_color": "#FFB400",
+                        "button_text_color": "#171A45",
+                        "hover_color": "#171A45",
+                        "hover_background_color": "#FFFFFF",
+                        "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                        "text_padding": { "unit": "px", "top": "16", "right": "32", "bottom": "16", "left": "32", "isLinked": false },
+                        "_margin": { "unit": "px", "top": "30", "right": "0", "bottom": "0", "left": "0", "isLinked": false }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vebenef1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "structure": "40",
+        "gap": "extended",
+        "padding": { "unit": "px", "top": "70", "right": "0", "bottom": "70", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "veben1c1",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veben1w1",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-clock", "library": "fa-solid" },
+                "title_text": "24/7 Emergency Service",
+                "description_text": "Power out or sparking? A live electrician answers around the clock.",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 28, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "veben1c2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veben1w2",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-shield-alt", "library": "fa-solid" },
+                "title_text": "Licensed &amp; Insured",
+                "description_text": "Fully certified master electricians. Your property is always protected.",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 28, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "veben1c3",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veben1w3",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-tag", "library": "fa-solid" },
+                "title_text": "Upfront Flat Pricing",
+                "description_text": "The price we quote is the price you pay — before any work begins.",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 28, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "veben1c4",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 25, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veben1w4",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": { "value": "fas fa-award", "library": "fa-solid" },
+                "title_text": "2-Year Warranty",
+                "description_text": "Every repair and installation is backed by our workmanship guarantee.",
+                "primary_color": "#0084D6",
+                "icon_size": { "unit": "px", "size": 28, "sizes": [] },
+                "title_color": "#243673",
+                "description_color": "#64748B"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veabout1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "_element_id": "about",
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "90", "right": "20", "bottom": "90", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#F5F7F9"
+      },
+      "elements": [
+        {
+          "id": "veabout1c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veabout1i",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "20", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "veaboutc1",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 50, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veabw1",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": { "url": "https://kamqb.github.io/teststrona/assets/img/about.jpg", "id": "", "size": "" },
+                        "image_size": "full",
+                        "image_border_radius": { "unit": "px", "top": "16", "right": "16", "bottom": "16", "left": "16", "isLinked": true }
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "veaboutc2",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 50, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "veabw2",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#0084D6;font-size:14px;font-weight:700;letter-spacing:3px;'>ABOUT VOLTEDGE</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "veabw3",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "The Bright Choice Since 2016",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#243673",
+                        "typography_typography": "custom",
+                        "typography_font_weight": "800",
+                        "typography_font_size": { "unit": "px", "size": 36, "sizes": [] }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "veabw4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#64748B;font-size:16px;'>VoltEdge Electrical is a family-run contractor serving homeowners and businesses across the tri-county area. We show up on time, quote flat prices, and treat every property like our own.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "veabw5",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          { "text": "Background-checked, uniformed electricians", "selected_icon": { "value": "fas fa-check", "library": "fa-solid" } },
+                          { "text": "Clean job sites — shoe covers and drop cloths, always", "selected_icon": { "value": "fas fa-check", "library": "fa-solid" } },
+                          { "text": "Permits pulled and inspections scheduled for you", "selected_icon": { "value": "fas fa-check", "library": "fa-solid" } }
+                        ],
+                        "icon_color": "#0084D6",
+                        "text_color": "#333333",
+                        "text_indent": { "unit": "px", "size": 8, "sizes": [] }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "veabw6",
+                      "elType": "section",
+                      "isInner": true,
+                      "settings": { "structure": "30" },
+                      "elements": [
+                        {
+                          "id": "veabwc1",
+                          "elType": "column",
+                          "isInner": false,
+                          "settings": { "_column_size": 33, "_inline_size": null },
+                          "elements": [
+                            {
+                              "id": "veabct1",
+                              "elType": "widget",
+                              "widgetType": "counter",
+                              "settings": { "ending_number": 1200, "suffix": "+", "title": "Projects done", "number_color": "#0084D6", "title_color": "#64748B" },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "veabwc2",
+                          "elType": "column",
+                          "isInner": false,
+                          "settings": { "_column_size": 33, "_inline_size": null },
+                          "elements": [
+                            {
+                              "id": "veabct2",
+                              "elType": "widget",
+                              "widgetType": "counter",
+                              "settings": { "ending_number": 18, "suffix": "", "title": "Electricians", "number_color": "#0084D6", "title_color": "#64748B" },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "veabwc3",
+                          "elType": "column",
+                          "isInner": false,
+                          "settings": { "_column_size": 33, "_inline_size": null },
+                          "elements": [
+                            {
+                              "id": "veabct3",
+                              "elType": "widget",
+                              "widgetType": "counter",
+                              "settings": { "ending_number": 10, "suffix": "+", "title": "Years of experience", "number_color": "#0084D6", "title_color": "#64748B" },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "veabw7",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "settings": {
+                        "text": "Meet Your Electrician",
+                        "link": { "url": "#contact", "is_external": "", "nofollow": "", "custom_attributes": "" },
+                        "align": "left",
+                        "background_color": "#0084D6",
+                        "button_text_color": "#FFFFFF",
+                        "hover_color": "#FFFFFF",
+                        "hover_background_color": "#0075BE",
+                        "border_radius": { "unit": "px", "top": "6", "right": "6", "bottom": "6", "left": "6", "isLinked": true },
+                        "text_padding": { "unit": "px", "top": "14", "right": "28", "bottom": "14", "left": "28", "isLinked": false },
+                        "_margin": { "unit": "px", "top": "20", "right": "0", "bottom": "0", "left": "0", "isLinked": false }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veconthe",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "padding": { "unit": "px", "top": "20", "right": "0", "bottom": "10", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "veconthec",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "veconthw1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='text-align:center;color:#0084D6;font-size:14px;font-weight:700;letter-spacing:3px;'>GET IN TOUCH</p>" },
+              "elements": []
+            },
+            {
+              "id": "veconthw2",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Request a Free Quote",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#243673",
+                "typography_typography": "custom",
+                "typography_font_weight": "800",
+                "typography_font_size": { "unit": "px", "size": 36, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "veconthw3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='text-align:center;color:#64748B;font-size:16px;'>Tell us what you need — we'll get back to you within one business hour.</p>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vecont01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "_element_id": "contact",
+        "structure": "20",
+        "gap": "extended",
+        "padding": { "unit": "px", "top": "10", "right": "0", "bottom": "90", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "vecontc1",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 33, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecow1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<div style='background:#F5F7F9;border-radius:12px;padding:20px;margin-bottom:16px;'><span style='color:#64748B;font-size:12px;font-weight:700;letter-spacing:1px;'>CALL US</span><br><b style='color:#243673;font-size:16px;'>(555) 234-5678</b></div>" },
+              "elements": []
+            },
+            {
+              "id": "vecow2",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<div style='background:#F5F7F9;border-radius:12px;padding:20px;margin-bottom:16px;'><span style='color:#64748B;font-size:12px;font-weight:700;letter-spacing:1px;'>EMAIL US</span><br><b style='color:#243673;font-size:16px;'>hello@voltedge-electric.com</b></div>" },
+              "elements": []
+            },
+            {
+              "id": "vecow3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<div style='background:#F5F7F9;border-radius:12px;padding:20px;margin-bottom:16px;'><span style='color:#64748B;font-size:12px;font-weight:700;letter-spacing:1px;'>VISIT US</span><br><b style='color:#243673;font-size:16px;'>1240 Industrial Parkway, Suite 18, Springfield</b></div>" },
+              "elements": []
+            },
+            {
+              "id": "vecow4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<div style='background:#171A45;border-radius:12px;padding:20px;color:#fff;'><span style='color:#FFB400;font-size:12px;font-weight:700;letter-spacing:1px;'>ELECTRICAL EMERGENCY?</span><br><b style='font-size:16px;'>Call our 24/7 line — we answer in minutes.</b></div>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "vecontc2",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 66, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vecow5",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": { "html": "<!-- Demo form (static). Replace this widget with a real form: Elementor Pro Form, WPForms or Contact Form 7. -->\n<style>\n.ve-form{background:#F5F7F9;border-radius:16px;padding:28px;box-shadow:0 6px 24px rgba(23,26,69,.08);}\n.ve-form label{display:block;font-weight:700;color:#243673;font-size:14px;margin:14px 0 6px;}\n.ve-form input,.ve-form select,.ve-form textarea{width:100%;border:1px solid #CBD5E1;border-radius:6px;padding:12px 14px;font-size:14px;background:#fff;box-sizing:border-box;}\n.ve-form button{margin-top:18px;background:#0084D6;color:#fff;border:0;border-radius:6px;padding:14px 28px;font-weight:700;font-size:15px;cursor:pointer;}\n.ve-form button:hover{background:#0075BE;}\n.ve-status{display:none;margin-top:14px;background:#ECFDF5;color:#047857;border-radius:6px;padding:12px 16px;font-size:14px;font-weight:600;}\n</style>\n<form class=\"ve-form\" onsubmit=\"this.querySelector('.ve-status').style.display='block';return false;\">\n<div style=\"display:flex;gap:16px;flex-wrap:wrap;\">\n<div style=\"flex:1;min-width:220px;\"><label>Full name</label><input type=\"text\" placeholder=\"Jane Cooper\" required></div>\n<div style=\"flex:1;min-width:220px;\"><label>Phone</label><input type=\"tel\" placeholder=\"(555) 000-0000\" required></div>\n</div>\n<div style=\"display:flex;gap:16px;flex-wrap:wrap;\">\n<div style=\"flex:1;min-width:220px;\"><label>Email</label><input type=\"email\" placeholder=\"jane@example.com\" required></div>\n<div style=\"flex:1;min-width:220px;\"><label>Service needed</label>\n<select required>\n<option value=\"\" selected disabled>Choose a service…</option>\n<option>Panel Upgrade</option>\n<option>Complete Rewiring</option>\n<option>Lighting Installation</option>\n<option>EV Charger Installation</option>\n<option>Ceiling Fans &amp; Fixtures</option>\n<option>Surge Protection</option>\n<option>Outlets &amp; Switches</option>\n<option>Safety Inspection</option>\n<option>Other / Not sure</option>\n</select></div>\n</div>\n<label>Tell us about the job</label>\n<textarea rows=\"4\" placeholder=\"e.g. Half the outlets in the kitchen stopped working…\"></textarea>\n<button type=\"submit\">Send Request</button>\n<div class=\"ve-status\">Thanks! This is a demo form — connect WPForms / Contact Form 7 / Elementor Pro Form to receive requests.</div>\n</form>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vefoot01",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "80", "right": "20", "bottom": "50", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#171A45"
+      },
+      "elements": [
+        {
+          "id": "vefoot1c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vefoot1i",
+              "elType": "section",
+              "isInner": true,
+              "settings": { "structure": "40", "gap": "extended" },
+              "elements": [
+                {
+                  "id": "vefootc1",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 30, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vefw1",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#fff;font-size:22px;font-weight:800;line-height:1;'><svg width='20' height='20' viewBox='0 0 24 24' fill='#0084D6' style='vertical-align:middle;margin-right:6px;'><path d='M13 2 4.5 13.5H11L9.5 22 19 10h-6.5L13 2Z'/></svg>VoltEdge <span style='display:block;font-size:11px;letter-spacing:3px;color:#0084D6;font-weight:700;margin-top:4px;'>ELECTRICAL</span></p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vefw2",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p style='color:#94A3B8;font-size:14px;'>Family-run, licensed and insured electrical contractor. Safe, honest work for homes and businesses since 2016.</p>" },
+                      "elements": []
+                    },
+                    {
+                      "id": "vefw3",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": { "editor": "<p><a href='#' style='color:#F1F5F9;margin-right:14px;'><i class='fab fa-facebook-f'></i></a><a href='#' style='color:#F1F5F9;margin-right:14px;'><i class='fab fa-instagram'></i></a><a href='#' style='color:#F1F5F9;margin-right:14px;'><i class='fab fa-twitter'></i></a><a href='#' style='color:#F1F5F9;'><i class='fab fa-youtube'></i></a></p>" },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vefootc2",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 23, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vefw4",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Quick Links", "header_size": "h6", "align": "left", "title_color": "#FFFFFF", "typography_typography": "custom", "typography_font_weight": "800", "typography_letter_spacing": { "unit": "px", "size": 2, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vefw5",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          { "text": "Home", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#home", "is_external": "", "nofollow": "" } },
+                          { "text": "Services", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "Special Offer", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#offer", "is_external": "", "nofollow": "" } },
+                          { "text": "About Us", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#about", "is_external": "", "nofollow": "" } },
+                          { "text": "Contact Us", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#contact", "is_external": "", "nofollow": "" } }
+                        ],
+                        "icon_color": "#0084D6",
+                        "text_color": "#94A3B8"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vefootc3",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 23, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vefw6",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Our Services", "header_size": "h6", "align": "left", "title_color": "#FFFFFF", "typography_typography": "custom", "typography_font_weight": "800", "typography_letter_spacing": { "unit": "px", "size": 2, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vefw7",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          { "text": "Panel Upgrades", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "Complete Rewiring", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "Lighting Installation", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "EV Charger Installation", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "Surge Protection", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } },
+                          { "text": "Safety Inspections", "selected_icon": { "value": "fas fa-angle-right", "library": "fa-solid" }, "link": { "url": "#services", "is_external": "", "nofollow": "" } }
+                        ],
+                        "icon_color": "#0084D6",
+                        "text_color": "#94A3B8"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "vefootc4",
+                  "elType": "column",
+                  "isInner": false,
+                  "settings": { "_column_size": 23, "_inline_size": null },
+                  "elements": [
+                    {
+                      "id": "vefw8",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": { "title": "Contact", "header_size": "h6", "align": "left", "title_color": "#FFFFFF", "typography_typography": "custom", "typography_font_weight": "800", "typography_letter_spacing": { "unit": "px", "size": 2, "sizes": [] } },
+                      "elements": []
+                    },
+                    {
+                      "id": "vefw9",
+                      "elType": "widget",
+                      "widgetType": "icon-list",
+                      "settings": {
+                        "icon_list": [
+                          { "text": "(555) 234-5678", "selected_icon": { "value": "fas fa-phone-alt", "library": "fa-solid" } },
+                          { "text": "hello@voltedge-electric.com", "selected_icon": { "value": "fas fa-envelope", "library": "fa-solid" } },
+                          { "text": "1240 Industrial Parkway, Suite 18, Springfield", "selected_icon": { "value": "fas fa-map-marker-alt", "library": "fa-solid" } },
+                          { "text": "Mon–Fri 7:00–18:00 · 24/7 emergency line", "selected_icon": { "value": "fas fa-clock", "library": "fa-solid" } }
+                        ],
+                        "icon_color": "#0084D6",
+                        "text_color": "#94A3B8"
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vefoot02",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": { "unit": "px", "top": "24", "right": "20", "bottom": "24", "left": "20", "isLinked": false },
+        "background_background": "classic",
+        "background_color": "#12133B"
+      },
+      "elements": [
+        {
+          "id": "vefoot2c",
+          "elType": "column",
+          "isInner": false,
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "vefoot2w1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style='text-align:center;color:#94A3B8;font-size:12px;'>© 2026 VoltEdge Electrical. All rights reserved. Licensed &amp; insured · Lic. #EC-88412 — <a href='https://wpastra.com/templates/brandstore-02/' style='color:#94A3B8;' target='_blank' rel='noopener'>Design inspired by Astra Brandstore</a></p>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

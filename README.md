@@ -40,6 +40,12 @@ The site is live at: **https://kamqb.github.io/teststrona/**
 GitHub Pages serves the `main` branch root. Pushing to `main` deploys
 automatically — no CI needed since the compiled CSS is committed.
 
+## WordPress version (Astra + Elementor)
+
+See [`wordpress/`](wordpress/README.md) — an importable Elementor template JSON that
+rebuilds this page 1:1 in WordPress with the Astra theme. Note: WordPress cannot
+run on GitHub Pages (needs PHP + MySQL hosting).
+
 ## Credits
 
 - Photos: [Pexels](https://www.pexels.com/) (free to use)

@@ -1,0 +1,26 @@
+/*
+ * VoltEdge Electrical — custom CSS for WordPress (Astra + Elementor)
+ *
+ * Paste into: Appearance → Customize → Additional CSS
+ * (Wygląd → Dostosuj → Dodatkowy CSS)
+ */
+
+/* Smooth scrolling for anchor links (#services, #about, …) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scale-up menu items on hover (same effect as on the static Tailwind site) */
+.main-header-menu li.menu-item a {
+  display: inline-block;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+.main-header-menu li.menu-item a:hover {
+  transform: scale(1.1);
+}
+
+/* Astra menu link color to brand blue */
+.main-header-menu li.menu-item a:hover,
+.main-header-menu li.menu-item.current-menu-item a {
+  color: #0084d6;
+}
